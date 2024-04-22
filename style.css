@@ -1,0 +1,44 @@
+    *{
+      margin: 0;
+    }
+    body{
+      background-color: hsl(47, 88%, 63%);
+    }
+    main{
+      border-radius: 30px;
+      border: 1px solid hsl(0, 0%, 7%);
+      box-shadow: 10px 10px 5px 10px hsl(0, 0%, 7%);
+      background: white;
+      padding: 40px;
+      width: 400px;
+      height: 500px;
+      display: flex;
+      gap: 20px;
+      flex-direction: column;
+      margin: auto;
+      margin-top: 9vh;
+    }
+    p{
+      color: hsl(0, 0%, 50%);
+    }
+    #illustration-article{
+      width: 100%;
+      border-radius: 0px;
+    }
+    button{
+      border: 0px;
+      font-size: 18px;
+      background-color: rgb(244, 208, 78);
+      width: fit-content;
+      text-transform: capitalize;
+      padding-block: 5px;
+      padding-inline: 25px;
+    }
+    section{
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+
+  
+  
