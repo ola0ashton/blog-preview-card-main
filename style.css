@@ -27,7 +27,7 @@
     }
     button{
       border: 0px;
-      font-size: 18px;
+      font-size: 12px;
       background-color: rgb(244, 208, 78);
       width: fit-content;
       text-transform: capitalize;
@@ -36,9 +36,11 @@
     }
     section{
       display: flex;
-      gap: 2px;
+      gap: 5px;
       align-items: center;
     }
-
+h1 {
+   text-size-adjust: 12px;
+}
   
   
