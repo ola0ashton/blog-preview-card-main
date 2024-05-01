@@ -38,6 +38,7 @@
       display: flex;
       gap: 5px;
       align-items: center;
+      font-size: 18px;
     }
 h1 {
    text-size-adjust: 12px;
